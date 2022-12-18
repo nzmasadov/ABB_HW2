@@ -1,3 +1,3 @@
 # ABB_HW2
 
-Question:  What is the use of Hashable and Equatable in Swift?
+Swift.org question:  What is the use of Hashable and Equatable in Swift?
